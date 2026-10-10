@@ -40,4 +40,5 @@
   "optionalDependencies": {
     "ws": "^8.18.0"
   }
-}# DbcStream
+}
+# DbcStream
